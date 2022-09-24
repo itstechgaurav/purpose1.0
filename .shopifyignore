@@ -1,3 +1,9 @@
-package.json
+node_modules
 .vscode
+
+package.json
+pnpm-lock.yaml
+
+nodemon.json
+vite.config.ts
 tsconfig.json
